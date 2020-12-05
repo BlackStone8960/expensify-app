@@ -1,5 +1,3 @@
-// import { addExpense, removeExpense, editExpense } from '../actions/expenses';
-
 const expensesReducerDefaultState = [];
 
 export default (state = expensesReducerDefaultState, action) => {
